@@ -2,6 +2,6 @@
 Introductory Problems of CSES - Solutions
 
 # About
-Name: Sayantan Patra <br>
-Reg_No: 2341016270 <br>
-CSES USERNAME: sayantancodex <br>
+Name: <b>Sayantan Patra</b> <br>
+Reg_No: <b>2341016270</b> <br>
+CSES USERNAME: <b>sayantancodex</b> <br>
