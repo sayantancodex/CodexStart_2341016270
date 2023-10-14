@@ -7,6 +7,6 @@ for i in range(1, N + 1):
 numbers = list(map(int, input().split()))
 
 for x in numbers:
-    xum ^= x
+    xum = xum^x
 
 print(xum)
