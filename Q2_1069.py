@@ -1,3 +1,10 @@
+'''
+Name: Sayantan Patra
+Reg No: 2341016270
+PS LINK: https://cses.fi/problemset/task/1069/
+'''
+
+
 S = input()
 N = len(S)
 current = 1
