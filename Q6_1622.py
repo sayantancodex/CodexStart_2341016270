@@ -1,3 +1,10 @@
+'''
+Name: Sayantan Patra
+Reg No: 2341016270
+PS LINK: https://cses.fi/problemset/task/1622/
+'''
+
+
 from itertools import permutations
 
 input_str = input()
