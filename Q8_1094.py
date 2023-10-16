@@ -1,3 +1,10 @@
+'''
+Name: Sayantan Patra
+Reg No: 2341016270
+PS LINK: https://cses.fi/problemset/task/1094/
+'''
+
+
 n = int(input())
 arr = list(map(int, input().split()))
 
