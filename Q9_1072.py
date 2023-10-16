@@ -1,3 +1,10 @@
+'''
+Name: Sayantan Patra
+Reg No: 2341016270
+PS LINK: https://cses.fi/problemset/task/1072/
+'''
+
+
 n = int(input())
 results = []
 
